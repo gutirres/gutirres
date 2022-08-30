@@ -20,5 +20,4 @@
 <div align="left">
   <a href="https://github.com/gutirres">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutirres&show_icons=true&theme=highcontrast&include_all_comits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutirres&layout=compact&langs_count=7&theme=highcontrast"/>                   </div>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutirres&layout=compact&langs_count=7&theme=highcontrast"/>                   
