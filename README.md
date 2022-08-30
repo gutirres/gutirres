@@ -17,9 +17,3 @@
 <a href="https://codepen.io/gutirres"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 <a href="https://www.freecodecamp.org/gutirres"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>
 
-<!-- Painéis do Github -->
-<hr>
-<div align="left">
-  <a href="https://github.com/gutirres">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutirres&show_icons=true&theme=highcontrast&include_all_comits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutirres&layout=compact&langs_count=7&theme=highcontrast"/>                   
