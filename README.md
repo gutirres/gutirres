@@ -2,7 +2,7 @@
 ☢️<a href="https://www.youtube.com/channel/UCl3oYmC6MhHBb8AZG_wAmZw" target="_blank">Rádio Armagedom</a><br/>
 🔪<a href="http://serialgrillers013.blogspot.com/" target="_blank">Serial Grillers</a><br/>
 📰<a href="https://www.tumblr.com/blog/ggutirres" target="_blank">Expresso Cotidiano</a><br/>
-📱Session ID: 0589818f140de606d1dbef2ace61f7bfe8a87edc10bc4deda700822db61791d540 <br/>
+📱Session app: 0589818f140de606d1dbef2ace61f7bfe8a87edc10bc4deda700822db61791d540 <br/>
 🏖️Morando em <a href="https://www.google.com/maps/@-23.9823382,-46.3044766,15z" target="_blank">Santos/SP/Brasil</a>
 <hr>
 <!-- Links para contatoe e redes sociais -->
